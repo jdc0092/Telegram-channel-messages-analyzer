@@ -12,7 +12,7 @@ A free GUI tool to extract the full list of messages information and details fro
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/erfan4lx)
 
 ## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-members-extractor/**](https://erfan4lx.com) 
+🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
 
 
 ## 🚀 How to Use
