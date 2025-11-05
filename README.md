@@ -9,7 +9,7 @@ A free GUI tool to extract the full list of messages information and details fro
 - Live status & logs UI
 
 ## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/erfan4lx)
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/bEu_K3RvGcU?si=BHJJvKq-2uUKeWA9)
 
 ## 🚀 Get it from our Website 🚀
 🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-messages-analyzer/**](https://erfan4lx.com/product/telegram-channel-messages-analyzer/) 
